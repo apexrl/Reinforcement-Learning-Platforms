@@ -14,7 +14,7 @@ Algorithm: The RL algorithm contatined, "-" means no algorithm is impletmented, 
 Remarks: The target of this repository.
 
 | Name | Base Language | API Language | Environment | Algorithm | Multi-agent | Remarks |
-| :-----: | :----: | :----: | :----: | :----: | :----: |
+| :-----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [Ray](https://github.com/ray-project/ray) | C++ | Python | - | 20+ | $\surd$ | RL framework for building and running distributed applications, packaged with \[Tune (Scalable Hyperparameter Tuning) / RLlib (Scalable Reinforcement Learn ) / Distributed Training\] for accelerating machine learning workloads, is able to work for Multi-agent RL. |
 | [Open_Spiel](https://github.com/deepmind/open_spiel) | C++ | Python | 28 | 24 | $\surd$ | Mainly for Game Theory with RL (Multi-agent). |
 | [Bsuite(Dopamine)](https://github.com/deepmind/bsuite) | Python | Python | - | - | $\surd$ | Architecture for RL, for architecture research, comprehensive studies, visualization, algorithmic research, and instruction |
