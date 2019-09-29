@@ -22,7 +22,7 @@ Remarks: The target of this repository.
 | [Rllab](https://github.com/rll/rllab) | Python | Python | - | 8 | A framework for developing and evaluating reinforcement learning algorithms. It includes a wide range of continuous control tasks plus implementations of the following algorithms. |
 | [RLkit](https://github.com/vitchyr/rlkit) | Python (Pytorch) | Python | - | 7 | RL framework and algorithms implemented in PyTorch. |
 | [Spriteworld](https://github.com/deepmind/spriteworld) | Python | Python | 3 | - | Aims to provide as much flexibility for procedurally generating multi-object scenes while retaining as simple an interface as possible. |
-| [OpenAI Gym](https://github.com/deepmind/spriteworld) | Python | Python | 22 major class, each keeps several detailed environments | - | Contains a standardized set of environments and AIP format. |
+| [OpenAI Gym](https://github.com/deepmind/spriteworld) | Python | Python | 22 major class, each keeps several detailed environments | 2+ | Contains a standardized set of environments and AIP format. |
 
 
 
