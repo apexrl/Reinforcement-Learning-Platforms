@@ -1,5 +1,6 @@
 # Reinforcement-Learning-Architectures
 Collections of powerful RL architectures with brief introductions.
+
 | Name | Base Language | API Language | Environment | Algorithm | Remarks
 
 | :-----| ----: | :----: | :----: |
