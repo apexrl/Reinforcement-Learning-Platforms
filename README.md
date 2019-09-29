@@ -3,17 +3,17 @@ Collections of powerful RL architectures with brief introductions, including rep
 
 Legend:
 
-Base Language: The source language.
+* Base Language: The source language.
 
-API Language: The language to be called.
+* API Language: The language to be called.
 
-Environment: The RL environment contatined, "-" means no environment is impletmented, but most can deal with OpenAI gym API.
+* Environment: The RL environment contatined, "-" means no environment is impletmented, but most can deal with OpenAI gym API.
 
-Algorithm: The RL algorithm contatined, "-" means no algorithm is impletmented, but many of them can deal with self-designed algorithms.
+* Algorithm: The RL algorithm contatined, "-" means no algorithm is impletmented, but many of them can deal with self-designed algorithms.
 
-Multi-agent: Is or not this repository made particularly for Multi-agent.
+* Multi-agent: Is or not this repository made particularly for Multi-agent.
 
-Remarks: The target of this repository.
+* Remarks: The target of this repository.
 
 | Name | Base Language | API Language | Environment | Algorithm | Multi-agent | Remarks |
 | :-----: | :----: | :----: | :----: | :----: | :----: | :----: |
