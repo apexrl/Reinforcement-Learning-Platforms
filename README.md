@@ -1,5 +1,5 @@
 # Reinforcement-Learning-Architectures
-Collections of powerful RL architectures with brief introductions, including repositories of environments impletation, algorithm impletation, RL framework and other collections.
+Collections of powerful RL architectures with brief introductions, including repositories of environments impletations, algorithm impletations, RL frameworks and other collections.
 
 Legend:
 
