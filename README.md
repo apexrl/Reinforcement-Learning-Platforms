@@ -17,8 +17,8 @@ Legend:
 
 | Name | Base Language | API Language | Environment | Algorithm | Multi-agent | Remarks |
 | :-----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [Ray](https://github.com/ray-project/ray) | C++ | Python | - | 20+ | N | RL framework for building and running distributed applications, packaged with \[Tune (Scalable Hyperparameter Tuning) / RLlib (Scalable Reinforcement Learn ) / Distributed Training\] for accelerating machine learning workloads, is able to work for Multi-agent RL. |
-| [Open_Spiel](https://github.com/deepmind/open_spiel) | C++ | Python | 28 | 24 | N | Mainly for Game Theory with RL (Multi-agent). |
+| [Ray](https://github.com/ray-project/ray) | C++ | Python | - | 20+ | N | RL framework for building and running distributed applications, packaged with \[Tune (Scalable Hyperparameter Tuning) / RLlib (Scalable Reinforcement Learn ) / Distributed Training\] for accelerating machine learning workloads, is **able to work for Multi-agent RL**. |
+| [Open_Spiel](https://github.com/deepmind/open_spiel) | C++ | Python | 28 | 24 | Y | Mainly for Game Theory with RL (Multi-agent). |
 | [Bsuite(Dopamine)](https://github.com/deepmind/bsuite) | Python | Python | - | - | N | Architecture for RL, for architecture research, comprehensive studies, visualization, algorithmic research, and instruction |
 | [Softlearning](https://github.com/rail-berkeley/softlearning) | Python (TF/Pytorch) | Python | - | 5 | N | RL framework for training maximum entropy policies in continuous domains, based on Ray. |
 | [Rllab](https://github.com/rll/rllab) | Python | Python | - | 8 | N | A framework for developing and evaluating reinforcement learning algorithms. It includes a wide range of continuous control tasks plus implementations of the following algorithms. |
