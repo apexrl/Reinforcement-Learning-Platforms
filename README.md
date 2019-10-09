@@ -29,6 +29,6 @@ Legend:
 | [Domination-Game](https://github.com/noio/Domination-Game) | Python | Python | 1 | - | Y | A simulation engine for a Multi-agent competitive game. |
 | [MAS Environment Collection-01](https://github.com/cjm715/mgym) | Python | Python | 8 | - | Y | A collection of Multi-agent OpenAI gym environments. |
 | [MAS Environment Collection-02](https://github.com/allentran/golds-rl-gym) | Python | Python | 6 | - | Y | Some Multi-agent enviroment in selected papers. |
-
+| [ROBEL: Robotics Benchmarks for Learning](https://github.com/google-research/robel) | Python | Python | 2 | - | N | An open-source platform of cost-effective robots and associated RL environments which provides Gym-compliant API.
 
 
