@@ -30,5 +30,5 @@ Legend:
 | [MAS Environment Collection-01](https://github.com/cjm715/mgym) | Python | Python | 8 | - | Y | A collection of Multi-agent OpenAI gym environments. |
 | [MAS Environment Collection-02](https://github.com/allentran/golds-rl-gym) | Python | Python | 6 | - | Y | Some Multi-agent enviroment in selected papers. |
 | [ROBEL: Robotics Benchmarks for Learning](https://github.com/google-research/robel) | Python | Python | 2 | - | N | An open-source platform of cost-effective robots and associated RL environments which provides Gym-compliant API.
-
+| [Model Based Reinforcement Learning Benchmarking Library (MBBL)](https://github.com/WilsonWangTHU/mbbl) | Python | Python | 18 | 18+ | N | A wide collection of MBRL algorithms and propose over 18 benchmarking environments specially designed for MBRL. .
 
