@@ -24,7 +24,7 @@ Legend:
 | [Rllab](https://github.com/rll/rllab) | Python | Python | - | 8 | N | Training framework,<br>continuous control tasks,<br>algorithm implementations. |
 | [RLkit](https://github.com/vitchyr/rlkit) | Python (Pytorch) | Python | - | 7 | N | Algorithms,<br>PyTorch. |
 | [Spriteworld](https://github.com/deepmind/spriteworld) | Python | Python | 3 | - | N | Flexibility,<br>procedurally generating Multi-object scenes,<br>simple interface. |
-| [OpenAI Gym](https://github.com/openai/gym) | Python | Python | 22 major class, each keeps several detailed environments | 2+ | N | Toolkit,<br>standardized set of environments and AIP format.<br>Basis for most RL environments. |
+| [OpenAI Gym](https://github.com/openai/gym) | Python | Python | 22 major class | 2+ | N | Toolkit,<br>standardized set of environments and AIP format.<br>Basis for most RL environments. |
 | [Golds-rl-gym](https://github.com/cjm715/mgym) | Python | Python | 1 | 2 | Y | Continous control RL algorithms,<br>Multi-agent environments,<br>based on OpenAI Gym API. |
 | [Domination-Game](https://github.com/noio/Domination-Game) | Python | Python | 1 | - | Y | Simulation engine,<br>Multi-agent competitive game. |
 | [MAS Environment Collection-01](https://github.com/cjm715/mgym) | Python | Python | 8 | - | Y | Collection,<br>Multi-agent OpenAI gym environments. |
