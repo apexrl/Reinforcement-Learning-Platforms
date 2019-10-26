@@ -35,7 +35,7 @@ Legend:
 | [DeepMind Lab](https://github.com/deepmind/lab) | C/C++ | Python/Lua | - | 1+ | N | Customisable 3D platform. |
 | [Project Malmo](https://github.com/Microsoft/malmo) | C/C++ | Python/C++/<br>C#/Java | - | 1+ | N | Minecraft environment. |
 | [ViZDoom](https://github.com/Marqt/ViZDoom) | C/C++ | Python/C++/<br>Lua/Java/Julia | - | 1+ | N | Doom-based environment,<br>raw visual information. |
-| [retro](https://github.com/openai/retro) | C/C++ | Python | - | 9+ | N | Video game emulators.<br>Supports SNES and Sega Genesis. Compatible with OpenAI gym. |
+| [retro](https://github.com/openai/retro) | C/C++ | Python | - | 9+ | N | Video game emulators.<br>Supports SNES and Sega Genesis.<br>Compatible with OpenAI gym. |
 | [TensorForce](https://github.com/reinforceio/tensorforce) | Python | Python | - | - | N | RL with TensorFlow,<br>Gitter support,<br>OpenAI Gym/Universe/DeepMind Lab integration. |
 | [tf-TRFL](https://github.com/deepmind/trfl/) | Python | Python | - | - | N | TensorFlow,<br>useful building blocks for RL agents. |
 | [keras-rl](https://github.com/matthiasplappert/keras-rl) | Python | Python | - | - | N | RL algorithms,<br>Keras,<br>compatibley with OpenAI. |
