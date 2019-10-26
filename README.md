@@ -43,3 +43,4 @@ Legend:
 | [SLM Lab](https://github.com/kengz/SLM-Lab) | Python | Python | - | 16+ | N | A research framework for Deep Reinforcement Learning using Unity, OpenAI Gym, PyTorch, Tensorflow.
 | [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) | Python | Python | - | 16+ | Y | Create reinforcement learning environments using the Unity Editor
 | [Intel Coach](https://github.com/NervanaSystems/coach) | Python | Python | - | 9+ | N | Coach is a python reinforcement learning research framework containing implementation of many state-of-the-art algorithms.
+| [RL Card](https://github.com/datamllab/rlcard) | Python | Python | - | 8 | Y | RLCard is a toolkit for RL in card games. It supports multiple card environments with easy-to-use interfaces.
