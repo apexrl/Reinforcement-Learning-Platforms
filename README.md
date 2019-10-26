@@ -17,7 +17,7 @@ Legend:
 
 | Name | Base Language | API Language | Environment | Algorithm | Multi-agent | Remarks |
 | :-----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [Ray](https://github.com/ray-project/ray) | C++ | Python | - | 20+ | N | RL framework, distributed, \[Tune (Scalable Hyperparameter Tuning) / RLlib (Scalable Reinforcement Learn ) / Distributed Training\], accelerate, **able to work for Multi-agent RL**. |
+| [Ray](https://github.com/ray-project/ray) | C++ | Python | - | 20+ | N | RL framework, distributed, hyperparameter tuning, RLlib, accelerate, **able to work for Multi-agent RL**. |
 | [Open_Spiel](https://github.com/deepmind/open_spiel) | C++ | Python | 28 | 24 | Y | Game Theory with RL (Multi-agent). |
 | [Bsuite(Dopamine)](https://github.com/deepmind/bsuite) | Python | Python | - | - | N | Architecture, architecture research, comprehensive studies, visualization, algorithmic research, instruction |
 | [Softlearning](https://github.com/rail-berkeley/softlearning) | Python<br>(TF/Pytorch) | Python | - | 5 | N | Training framework, maximum entropy, continuous, Ray. |
