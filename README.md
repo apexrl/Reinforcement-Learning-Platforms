@@ -1,6 +1,8 @@
 # Reinforcement-Learning-Platforms
 Collections of powerful RL platforms with brief introductions, including repositories of environments impletations, algorithm impletations, RL frameworks and other collections. Old platforms are not listed because of out of fashion. [Reference](https://github.com/aikorea/awesome-rl/blob/master/README.md).
 
+New ref: collections of RL environments. https://github.com/pschydlo/RLenv.directory/
+
 Legend:
 
 * Base Language: The source language.
