@@ -29,6 +29,7 @@ Legend:
 | [OpenAI Gym](https://github.com/openai/gym) | Python | Python | 22 major class | 2+ | N | Toolkit,<br>standardized set of environments and AIP format.<br>Basis for most RL environments. |
 | [Golds-rl-gym](https://github.com/allentran/golds-rl-gym) | Python | Python | 1 | 2 | Y | Continous control RL algorithms,<br>Multi-agent environments,<br>based on OpenAI Gym API. |
 | [Domination-Game](https://github.com/noio/Domination-Game) | Python | Python | 1 | - | Y | Simulation engine,<br>Multi-agent competitive game. |
+| [Petting Zoo](https://www.pettingzoo.ml/envs) | Python | Python | - | - | Y | Integrate many environments | |
 | [MAS Environment Collection-01](https://github.com/koulanurag/ma-gym) | Python | Python | 5 | - | Y | Collection,<br>Multi-agent OpenAI gym environments. |
 | [MAS Environment Collection-02](https://github.com/cjm715/mgym) | Python | Python | 8 | - | Y | Collection,<br>Multi-agent OpenAI gym environments. |
 | [MAS Environment Collection-03](https://github.com/wwxFromTju/deepmind_MAS_enviroment) | Python | Python | 6 | - | Y | Collection,<br>Multi-agent enviroments. |
